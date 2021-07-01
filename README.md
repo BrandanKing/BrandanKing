@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BrandanKing
+- 👀 I’m interested in all things development
+- 🌱 I’m currently studying software engineering at Manchester Metropolitan University
